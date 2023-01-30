@@ -23,13 +23,10 @@ Sql Server database, web Api back-end and react 18 front-end.
 it creates the database
 
 ### Front-end
-1.
-cd iz-lkpg-digitalWaitingNumber-2-main/client-app
-
-2. code .
-
-3. npm start
+6.cd iz-lkpg-digitalWaitingNumber-2-main/client-app
+7. code .
+8. npm start
 
 # in case you had questions and problems please contact me:
-**kourosh.salahshoor-asbagh@knowit.se
+** kourosh.salahshoor-asbagh@knowit.se **
 [kourosh.salahshoor-asbagh@knowit.se](kourosh.salahshoor-asbagh@knowit.se)
