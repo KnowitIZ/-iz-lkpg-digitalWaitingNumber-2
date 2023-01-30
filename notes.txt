@@ -1,0 +1,13 @@
+dotnet new gitignore
+
+echo "# ReactApp" >> README.md 
+git init
+git add README.md 
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kouroshsalahshoor/ReactApp.git
+git push -u origin main 
+
+npx create-react-app client-app --template typescript
+
+http://www.json2ts.com/
