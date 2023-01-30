@@ -19,11 +19,10 @@ Sql Server database, web Api back-end and react 18 front-end.
 
 3. cd API
 4. double click on the API.sln
-5. build and run the API app
-it creates the database
+5. build and run the API app (it creates the database)
 
 ### Front-end
-6.cd iz-lkpg-digitalWaitingNumber-2-main/client-app
+6. cd iz-lkpg-digitalWaitingNumber-2-main/client-app
 7. code .
 8. npm start
 
