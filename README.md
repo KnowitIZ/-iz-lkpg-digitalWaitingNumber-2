@@ -5,7 +5,7 @@
 - Bootstrap 5
 - Token based authentication
 - Data and Identity Seed
-- Entityframework Code first
+- Entity Framework Code first
 
 ## Prerequisites:
 1. Visual Studio 2022 - Version 17.4.3
