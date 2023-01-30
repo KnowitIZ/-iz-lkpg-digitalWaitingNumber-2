@@ -13,11 +13,11 @@
 3. Microsoft SQL Server Management Studio 18 - version 18.12.1
 
 ## How to run:
-1. clone the repository--
+1. clone the repository  
 
-git clone [https://github.com/KnowitIZ/iz-lkpg-digitalWaitingNumber-2/archive/refs/heads/master.zip](https://github.com/KnowitIZ/iz-lkpg-digitalWaitingNumber-2/archive/refs/heads/master.zip)--
+git clone [https://github.com/KnowitIZ/iz-lkpg-digitalWaitingNumber-2/archive/refs/heads/master.zip](https://github.com/KnowitIZ/iz-lkpg-digitalWaitingNumber-2/archive/refs/heads/master.zip)  
 
-or just copy and unzip/extract the file
+or just copy and unzip/extract the file  
 
 2. open a terminal window
 3. cd iz-lkpg-digitalWaitingNumber-2-main
