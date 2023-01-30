@@ -1,12 +1,11 @@
-# iz-lkpg-digitalWaitingNumber-2
-
-## Digital Waiting Number
+# Digital Waiting Number
 - Sql Server database
 - web Api (.Net 7)
 - React 18
 - Bootstrap 5
 - Token based authentication
 - Data and Identity Seed
+- Entityframework Code first
 
 ## Prerequisites:
 1. Visual Studio 2022 - Version 17.4.3
