@@ -1,7 +1,9 @@
 # iz-lkpg-digitalWaitingNumber-2
 
-## Digital Waiting Number with:
-Sql Server database, web Api back-end and react 18 front-end.
+## Digital Waiting Number
+- Sql Server database
+- web Api back-end
+- and react 18 front-end.
 
 ## Prerequisites:
 1. Visual Studio 2022 - Version 17.4.3
@@ -27,4 +29,4 @@ Sql Server database, web Api back-end and react 18 front-end.
 8. npm start
 
 # in case you had questions and problems please contact me:
-**kourosh.salahshoor-asbagh@knowit.se
+kourosh.salahshoor-asbagh@knowit.se
