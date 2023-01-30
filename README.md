@@ -27,5 +27,4 @@ Sql Server database, web Api back-end and react 18 front-end.
 8. npm start
 
 # in case you had questions and problems please contact me:
-** kourosh.salahshoor-asbagh@knowit.se **
-[kourosh.salahshoor-asbagh@knowit.se](kourosh.salahshoor-asbagh@knowit.se)
+**kourosh.salahshoor-asbagh@knowit.se
