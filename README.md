@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# ReactApp
-=======
 # Digital Waiting Number
 - Sql Server database
 - web Api (.Net 7)
@@ -36,4 +33,3 @@
 
 # in case you had questions and problems please contact me:
 kourosh.salahshoor-asbagh@knowit.se
->>>>>>> 271e884986d1e6857eeb35ecbed74591ca7f1a80
