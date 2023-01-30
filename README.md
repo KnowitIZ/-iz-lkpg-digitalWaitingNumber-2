@@ -2,8 +2,11 @@
 
 ## Digital Waiting Number
 - Sql Server database
-- web Api back-end
-- and react 18 front-end.
+- web Api (.Net 7)
+- React 18
+- Bootstrap 5
+- Token based authentication
+- Data and Identity Seed
 
 ## Prerequisites:
 1. Visual Studio 2022 - Version 17.4.3
