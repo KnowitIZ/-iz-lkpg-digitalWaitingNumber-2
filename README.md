@@ -18,10 +18,10 @@
 
 or  
 unzip/extract the file  
-https://github.com/KnowitIZ/iz-lkpg-digitalWaitingNumber-2.git
+https://github.com/KnowitIZ/iz-lkpg-digitalWaitingNumber-2/archive/refs/heads/master.zip
 
-3. open a terminal window
-4. cd iz-lkpg-digitalWaitingNumber-2-main
+2. open a terminal window
+3. cd iz-lkpg-digitalWaitingNumber-2-main
 
 ### Back-end:
 
