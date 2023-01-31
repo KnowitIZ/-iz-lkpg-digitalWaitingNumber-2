@@ -32,7 +32,8 @@ https://github.com/KnowitIZ/iz-lkpg-digitalWaitingNumber-2/archive/refs/heads/ma
 
 ### Front-end
 1. cd client-app
-2. npm start
+2. npm install
+3. npm start
 
 # in case you had questions and problems please contact me:
 kourosh.salahshoor-asbagh@knowit.se
