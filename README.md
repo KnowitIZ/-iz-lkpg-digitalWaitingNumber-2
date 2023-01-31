@@ -14,9 +14,10 @@
 
 ## How to run:
 1. [clone the repository](https://github.com/KnowitIZ/iz-lkpg-digitalWaitingNumber-2/archive/refs/heads/master.zip)
-[https://github.com/KnowitIZ/iz-lkpg-digitalWaitingNumber-2/archive/refs/heads/master.zip](https://github.com/KnowitIZ/iz-lkpg-digitalWaitingNumber-2/archive/refs/heads/master.zip)
+[https://github.com/KnowitIZ/iz-lkpg-digitalWaitingNumber-2/archive/refs/heads/master.zip](https://github.com/KnowitIZ/iz-lkpg-digitalWaitingNumber-2/archive/refs/heads/master.zip)  
 
-2. unzip/extract the file
+or  
+unzip/extract the file  
 https://github.com/KnowitIZ/iz-lkpg-digitalWaitingNumber-2.git
 
 3. open a terminal window
